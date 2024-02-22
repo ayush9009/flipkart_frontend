@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/AyuFlip/static/css/main.6014deb1.css",
+    "main.js": "/AyuFlip/static/js/main.b9da4464.js",
+    "static/media/kids-shop.jpg": "/AyuFlip/static/media/kids-shop.1d72c136cd08b14d4d4a.jpg",
+    "static/media/sukhbir-shop.png": "/AyuFlip/static/media/sukhbir-shop.63659213a256a0ce4d66.png",
+    "static/media/sardar-shop.jpg": "/AyuFlip/static/media/sardar-shop.9c7917c4fb91ef436341.jpg",
+    "static/media/oddish-shop.jpg": "/AyuFlip/static/media/oddish-shop.9522d9117d5eb39bfc59.jpg",
+    "static/media/electronics-shop.jpg": "/AyuFlip/static/media/electronics-shop.e8a1ee9acb676b33a9f0.jpg",
+    "static/media/1.png": "/AyuFlip/static/media/1.b5d9020eb7977e000537.png",
+    "static/media/playstore.png": "/AyuFlip/static/media/playstore.82b4831979e0ce7c733e.png",
+    "static/media/Appstore.png": "/AyuFlip/static/media/Appstore.d0c5839937e3c36285f6.png",
+    "static/media/revicons.eot": "/AyuFlip/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/AyuFlip/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/AyuFlip/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/AyuFlip/index.html",
+    "main.6014deb1.css.map": "/AyuFlip/static/css/main.6014deb1.css.map",
+    "main.b9da4464.js.map": "/AyuFlip/static/js/main.b9da4464.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6014deb1.css",
+    "static/js/main.b9da4464.js"
+  ]
+}
