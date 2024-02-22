@@ -4,7 +4,7 @@ import {
   Routes,
   Route,
 } from "react-router-dom";
-import App from "./App";
+import App from "./App.jsx";
 import Admin from "./Admin";
 import Home from "./Home";
 
@@ -13,6 +13,7 @@ function AppRouter() {
     <Router>
       <Routes>
         <Route path="/" element={<App />} />
+        <Route path="/AyuFlip" element={<App />} />
         <Route path="/home" element={<Home />} />
         <Route path="/ecommerce-site" element={<App />} />
         <Route path="/admin" element={<Admin />} />
