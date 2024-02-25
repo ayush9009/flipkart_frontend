@@ -1,23 +1,17 @@
-/* *{
-    margin: 0%;
-    padding: 0%;
-    transition: 0.2s linear;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-} */
-.header{
-    height: 50px;
-    background-color: #2874f0;
-}
 
 .tab-container{
     margin-top: 20px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     font-size: 13px;
 }
 
 .tab-container .nav{
     cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;    
 }
 
 .tab-container .nav img{
@@ -96,4 +90,12 @@
 
 .nav li:nth-child(2):hover> .inner-menu{
     display: block !important;
+}
+
+@media (max-width: 480px){
+    #displaynot{
+        display: none;
+    }
+    
+    
 }
