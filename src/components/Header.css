@@ -87,6 +87,8 @@
   .fifth-nav h1{
     display: none;
   }
-  
+  .dropdown{
+    display: block;
+  } 
   
 }

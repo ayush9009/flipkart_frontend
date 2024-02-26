@@ -2,7 +2,7 @@
   "name": "flipkart-host",
   "version": "0.1.1",
   "private": true,
-  "homepage": "https://ayush9009.github.io/flipkart_host",
+  "homepage": "https://ayush9009.github.io/flipkart_frontend",
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
