@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/flipkart_frontend/static/css/main.5ca29f11.css",
-    "main.js": "/flipkart_frontend/static/js/main.0e7f7ad4.js",
+    "main.css": "/flipkart_frontend/static/css/main.dea62e8b.css",
+    "main.js": "/flipkart_frontend/static/js/main.e49d6798.js",
     "static/media/kids-shop.jpg": "/flipkart_frontend/static/media/kids-shop.1d72c136cd08b14d4d4a.jpg",
     "static/media/sukhbir-shop.png": "/flipkart_frontend/static/media/sukhbir-shop.63659213a256a0ce4d66.png",
     "static/media/sardar-shop.jpg": "/flipkart_frontend/static/media/sardar-shop.9c7917c4fb91ef436341.jpg",
@@ -14,11 +14,11 @@
     "static/media/revicons.ttf": "/flipkart_frontend/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/flipkart_frontend/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/flipkart_frontend/index.html",
-    "main.5ca29f11.css.map": "/flipkart_frontend/static/css/main.5ca29f11.css.map",
-    "main.0e7f7ad4.js.map": "/flipkart_frontend/static/js/main.0e7f7ad4.js.map"
+    "main.dea62e8b.css.map": "/flipkart_frontend/static/css/main.dea62e8b.css.map",
+    "main.e49d6798.js.map": "/flipkart_frontend/static/js/main.e49d6798.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ca29f11.css",
-    "static/js/main.0e7f7ad4.js"
+    "static/css/main.dea62e8b.css",
+    "static/js/main.e49d6798.js"
   ]
 }
